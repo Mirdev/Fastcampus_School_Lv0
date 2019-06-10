@@ -1,6 +1,7 @@
 .wrapper {
  position: relative;
  top: 25%;
+ left: 25%;
 }
 .trans {
   width: 100px;
