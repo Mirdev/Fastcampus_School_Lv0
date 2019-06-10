@@ -9,7 +9,6 @@
   background-color: red;
   transition: all ease 1s;
   mouseout-transform: rotate(180deg);
-  margin: 0 auto;
 }
 .trans:hover {
   width: 300px;
