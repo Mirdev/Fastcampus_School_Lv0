@@ -1,3 +1,8 @@
+.wrapper {
+ height: 100%;
+ display: table-cell;
+ vertical-align: middle;
+}
 .trans {
   width: 100px;
   height: 100px;
