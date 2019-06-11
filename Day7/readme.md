@@ -1,4 +1,4 @@
-#Day7 Files Description
+# Day7 Files Description
 
 1. 2주차_DAY2_개인과제.pdf: 오늘 과제 pdf
 2. Day7.md: 필수1~4, 심화1 숙제
