@@ -1,0 +1,13 @@
+section {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+section:nth-child(n+2):nth-child(-n+3) {
+  background-color: skyblue;
+  font-family: sanserif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: red;
+}
